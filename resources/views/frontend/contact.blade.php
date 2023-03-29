@@ -70,7 +70,7 @@
                                 </div><!--form-group-->
                             </div><!--col-->
                         </div><!--row-->
-
+<!-- 
                         @if(config('access.captcha.contact'))
                             <div class="row">
                                 <div class="col">
@@ -78,7 +78,7 @@
                                     {{ html()->hidden('captcha_status', 'true') }}
                                 </div><!--col-->
                             </div><!--row-->
-                        @endif
+                        @endif -->
 
                         <div class="row">
                             <div class="col">
